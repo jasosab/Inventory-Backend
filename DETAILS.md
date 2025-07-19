@@ -29,6 +29,8 @@ El modelo incluye las siguientes entidades:
 
 - `db-schema.sql`: Script para creación de tablas en PostgreSQL
 - `README.md`: Instrucciones de ejecución
+- `DETAILS.md`: ste documento complementa el `README.md` y presenta de forma más detallada la estructura, decisiones técnicas, modelo de datos y sugerencias de mejora del proyecto
+- `Script-Prueba-Poblar-Datos`: este archivo nos ayuda a poblar las tablas para las pruebas
 
 🧩 Sugerencias para escalar o mejorar la solución
 
